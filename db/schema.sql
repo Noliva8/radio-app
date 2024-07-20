@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS radio_db;
+CREATE DATABASE radio_db;
