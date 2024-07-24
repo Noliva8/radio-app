@@ -1,0 +1,32 @@
+[
+  {
+    "location_id": 1,
+    "region": "North America",
+    "country": "United States",
+    "city": "New York"
+  },
+  {
+    "location_id": 2,
+    "region": "Europe",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "location_id": 3,
+    "region": "Asia",
+    "country": "Japan",
+    "city": "Tokyo"
+  },
+  {
+    "location_id": 4,
+    "region": "South America",
+    "country": "Brazil",
+    "city": "São Paulo"
+  },
+  {
+    "location_id": 5,
+    "region": "Australia",
+    "country": "Australia",
+    "city": "Sydney"
+  }
+]
